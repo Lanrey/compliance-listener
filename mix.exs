@@ -47,9 +47,6 @@ defmodule ComplianceListener.MixProject do
       {:jason, "~> 1.2"},
       {:dns_cluster, "~> 0.2.0"},
       {:bandit, "~> 1.5"},
-      {:finch, "~> 0.18"},
-      {:floki, "~> 0.36.0"},
-      {:mox, "~> 1.1", only: :test},
       {:mox, "~> 1.1", only: :test}
     ]
   end
