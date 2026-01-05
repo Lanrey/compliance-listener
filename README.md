@@ -312,10 +312,5 @@ mix ecto.reset
 - [ ] Multi-tenant support
 - [ ] Email notifications via Swoosh
 
-## License
 
-MIT
 
-## Author
-
-Built as a demonstration project for Remote.com job application.
