@@ -1,10 +1,10 @@
 # Compliance Change Listener
 
-**A demonstration project for Remote.com showcasing Elixir/OTP, Phoenix, and concurrent programming**
+**A demonstration project for an HR platform showcasing Elixir/OTP, Phoenix, and concurrent programming**
 
 ## Project Overview
 
-The Compliance Change Listener is a sophisticated system that monitors multiple regulatory sources (government APIs, RSS feeds) for labor law changes and automatically identifies employee contracts that may be affected. This addresses Remote.com's core challenge of maintaining compliance across dozens of countries.
+The Compliance Change Listener is a sophisticated system that monitors multiple regulatory sources (government APIs, RSS feeds) for labor law changes and automatically identifies employee contracts that may be affected. This addresses the HR's core challenge of maintaining compliance across dozens of countries.
 
 ### Key Features
 
