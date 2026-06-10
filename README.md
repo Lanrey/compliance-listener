@@ -274,7 +274,7 @@ docker-compose up -d
 mix ecto.reset
 ```
 
-## Project Highlights for Remote.com
+## Project Highlights for HR Platform
 
 ### 1. **Elixir/OTP Expertise**
 - GenServer for stateful polling process
